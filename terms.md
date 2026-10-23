@@ -15,7 +15,7 @@
 By installing or using the Capo Fit app ("the app"), you agree to these terms. If you do not agree, please do not use the app.
 
 ## 1. The app
-Capo Fit is a scoreboard and an interval timer for sport and training. It is provided free of charge, without accounts or ads. How we handle information is described in our Privacy Policy: <https://gitpopr.github.io/fl/privacy/>
+Capo Fit is a scoreboard and an interval timer for sport and training. It is provided free of charge, without accounts or ads. How we handle information is described in our Privacy Policy: <https://fasedwalter.github.io/Capo-Fit/privacy.html>
 
 ## 2. License
 We grant you a personal, non-exclusive, non-transferable, revocable license to install and use the app on your devices for your own purposes, in line with these terms. All rights in the app, its name, logo and design remain with Capo Apps.
@@ -63,7 +63,7 @@ Questions about these terms: dev0404y@gmail.com
 Al instalar o usar la aplicación Capo Fit («la app») aceptas estos términos. Si no estás de acuerdo, por favor no uses la app.
 
 ## 1. La app
-Capo Fit es un marcador y un temporizador por intervalos para el deporte y el entrenamiento. Se ofrece gratis, sin cuentas ni anuncios. Cómo tratamos la información se explica en nuestra Política de privacidad: <https://gitpopr.github.io/fl/privacy/>
+Capo Fit es un marcador y un temporizador por intervalos para el deporte y el entrenamiento. Se ofrece gratis, sin cuentas ni anuncios. Cómo tratamos la información se explica en nuestra Política de privacidad: <https://fasedwalter.github.io/Capo-Fit/privacy.html>
 
 ## 2. Licencia
 Te concedemos una licencia personal, no exclusiva, intransferible y revocable para instalar y usar la app en tus dispositivos para tus propios fines, conforme a estos términos. Todos los derechos sobre la app, su nombre, logotipo y diseño pertenecen a Capo Apps.
